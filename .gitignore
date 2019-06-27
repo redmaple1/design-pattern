@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+/target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+.idea/misc.xml
+.idea/workspace.xml
+/.idea/
+*.iml
+logs/
+out/
+*.xml.versionsBackup
